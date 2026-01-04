@@ -20,19 +20,7 @@ I'm solving these puzzles myself without AI/LLM assistance. After submitting eac
 - [Day 10](./day10/solution.js)
 - [Day 11](./day11/solution.js)
 - [Day 12](./day12/solution.js)
-- [Day 13](./day13/solution.js)
-- [Day 14](./day14/solution.js)
-- [Day 15](./day15/solution.js)
-- [Day 16](./day16/solution.js)
-- [Day 17](./day17/solution.js)
-- [Day 18](./day18/solution.js)
-- [Day 19](./day19/solution.js)
-- [Day 20](./day20/solution.js)
-- [Day 21](./day21/solution.js)
-- [Day 22](./day22/solution.js)
-- [Day 23](./day23/solution.js)
-- [Day 24](./day24/solution.js)
-- [Day 25](./day25/solution.js)
+
 
 ## Running the Solutions
 
