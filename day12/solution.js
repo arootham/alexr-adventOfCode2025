@@ -6,13 +6,11 @@ const input = fs.readFileSync(path.join(__dirname, 'input.txt'), 'utf8');
 
 // Part 1
 function part1(input) {
-    // TODO: Implement solution
     return 0;
 }
 
 // Part 2
 function part2(input) {
-    // TODO: Implement solution
     return 0;
 }
 

@@ -70,7 +70,7 @@ function part2(input) {
                 if (adjCount < 4) {
                     removedThisTime++;
                     
-                    // input[i][j] = 'x';   // doesn't work
+                    // input[i][j] = 'x';   // doesn't work, strings are immutable
                     var newStr = input[i].substring(0,j) + 'x' + input[i].substring(j+1);
                     input[i] = newStr;
                 }
